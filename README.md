@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gitmax1313
-- 👀 I’m interested in working with AI, specifically, training LLMs.  
+- 👀 I’m interested in working with GAN, specifically, learning the fine art of training and tuning LLMs.  
 - 🌱 I’m currently learning the basics.  I'm retaking calculus and I'm self-teaching Python.
 - 💞️ I’m looking to collaborate on simple projects.
 - 📫 How to reach me ...
